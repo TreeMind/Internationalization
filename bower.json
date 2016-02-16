@@ -1,0 +1,19 @@
+{
+  "name": "Uma Maheswari",
+  "authors": [
+    "Uma Maheswari"
+  ],
+  "description": "Angular UI internationlization",
+  "main": "fzTranslate.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "Angular",
+    "internationalization",
+    "Mindtree"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.mindtree.com/"
+}
