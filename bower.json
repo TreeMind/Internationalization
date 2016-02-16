@@ -15,5 +15,15 @@
     "Mindtree"
   ],
   "license": "MIT",
-  "homepage": "http://www.mindtree.com/"
+  "homepage": "http://www.mindtree.com/",
+  "dependencies": {
+    "angular": "1.4.6",
+    "angular-translate": "2.9.0",
+    "angular-translate-loader-static-files": "2.9.0",
+    "angular-translate-loader-partial": "2.9.0",
+    "angular-i18n": "1.5.0",
+    "angular-dynamic-locale": "0.1.30"
+  }
+
+  
 }
